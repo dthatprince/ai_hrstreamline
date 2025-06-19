@@ -19,8 +19,7 @@ cachetools==5.5.2
 celery==5.5.3
 certifi==2025.6.15
 charset-normalizer==3.4.2
-#chromadb==1.0.12
-chromadb==1.0.0
+chromadb==1.0.12
 click==8.1.8
 click-didyoumean==0.3.1
 click-plugins==1.1.1
@@ -155,6 +154,7 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 pytz==2025.1
 #pywin32==310
+pysqlite3-binary
 PyYAML==6.0.2
 pyzmq==27.0.0
 redis==6.2.0
